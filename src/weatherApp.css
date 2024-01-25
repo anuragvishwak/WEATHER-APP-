@@ -1,0 +1,33 @@
+/* weatherApp.css */
+
+.parentDiv {
+    background-color: #b6e0eb;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 6%;
+    text-align: center;
+    height: 500px;
+  }
+  
+#designingHeading{
+    font-family:cursive;
+}
+
+.designingInput{
+    padding: 2%;
+    border-radius: 20px;
+    padding-left:6%;
+}
+
+.designingButton{
+    margin-left: 1%;
+    border-radius:50px;
+    padding: 6px;
+    background-color:purple;
+    color: white;
+}
+  /* Add more styles as needed based on your design requirements */
+  
